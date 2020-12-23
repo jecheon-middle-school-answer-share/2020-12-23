@@ -115,22 +115,42 @@
 [![Youtube](http://img.youtube.com/vi/Y48faACIZQ0/0.jpg)](https://www.youtube.com/embed/Y48faACIZQ0 "Youtube")
 
 ## 5교시 - 영어
-<!--
 ### 바로가기
-[영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+[영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=741213&hmwkTypeCd=ALL)
 ### 문제
 ```
+아래 영상을 보고 미국의 크리스마스 풍습에 대해 새롭게 알게 된 사실을 한 가지 이상 과제로 남기세요.
 ```
-### 정답
--->
+### 참고 자료
+[![Youtube](http://img.youtube.com/vi/uqluaG1btRw/0.jpg)](https://www.youtube.com/embed/uqluaG1btRw "Youtube")
 
 ## 6교시 - 수학
-<!--
 ### 바로가기
-[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=744613&hmwkTypeCd=ALL)
 ### 문제
-[문제 다운로드](https://rang.edunet.net/common/fileDownload.do?type=homework&sequence=000000)
+[문제 다운로드](https://rang.edunet.net/common/fileDownload.do?type=homework&sequence=507303)
 ### 정답
+1. 3, 60, 3, 60, 파이
+2. 9, 120, 9, 120, 6파이
+3. 파이
+4. 6, 3파이, 90
+5. 150, 5파이, 6
+6. 180도
+7. 36
+
+1. 5
+2. 2
+3. 1
+4. 2
+5. 5
+6. 2
+7. 3
+
+1. 3
+2. 3
+3. 3
+4. 1
+5. 3
+6. 8
 ### 참고 자료
-[영상 보기](https://play.mbus.tv/000000000000)
--->
+[영상 보기](https://play.mbus.tv/176883ce994994d3)
