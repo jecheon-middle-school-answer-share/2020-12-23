@@ -15,39 +15,42 @@
 
 ## 조회
 ### 바로가기
-<!--
-[조회 바로가기](https://rang.edunet.net/class/G000364114/classNotifyView.do?pageNo=1&notifySequence=000000)
--->
+[조회 바로가기](https://rang.edunet.net/class/G000364114/classNotifyView.do?pageNo=1&notifySequence=304310)
 
 ## 1교시 - 체육
-<!--
 ### 바로가기
-[체육 바로가기](https://rang.edunet.net/class/G000363883/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+[체육 바로가기](https://rang.edunet.net/class/G000363883/hmwkppList.do?hmwkSeq=744221&hmwkTypeCd=ALL)
 ### 문제
 ```
+다음의 영상에서 나오는 스텝 4가지를 수행해보고
+느낀점을 한 줄로 간단하게 작성해보세요~!
 ```
-### 정답
 ### 참고 자료
-[![Youtube](http://img.youtube.com/vi/000000000000/0.jpg)](https://www.youtube.com/embed/000000000000 "Youtube")
--->
+[![Youtube](http://img.youtube.com/vi/5VVR9DaXKBQ/0.jpg)](https://www.youtube.com/embed/5VVR9DaXKBQ "Youtube")
 
 ## 2교시 - 과학
-<!--
 ### 바로가기
-[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=745722&hmwkTypeCd=ALL)
 ### 문제
-[구글 폼 바로가기](https://forms.gle/000000000000)
+[구글 폼 바로가기](https://forms.gle/nJ59wVLLdYxskd9r5)
 ### 정답
--->
+1. 5
+2. 4
+3. 2
+4. 1
+5. 3
 
 ## 3교시 - 과학
-<!--
 ### 바로가기
-[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=745722&hmwkTypeCd=ALL)
 ### 문제
-[구글 폼 바로가기](https://forms.gle/000000000000)
+[구글 폼 바로가기](https://forms.gle/sNbEd3nYhG61m5Ub7)
 ### 정답
--->
+1. 2
+2. 5
+3. 1
+4. 4
+5. 3
 
 ## 4교시 - 국어
 <!--
